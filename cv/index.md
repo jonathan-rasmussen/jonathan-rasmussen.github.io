@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Austin Tripp
+title: Jonathan Rasmussen's CV
 ---
 # Curriculum Vitae
 - [Resume](/_pdf/Jonathan_Rasmussen.pdf)
